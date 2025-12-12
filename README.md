@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/YOUR_IMAGE_LINK_HERE" alt="FixIt.AI Dashboard" width="100%">
+  <img src="https://github.com/user-attachments/assets/Screenshot 2025-12-12 232334.png" alt="FixIt.AI Dashboard" width="100%">
   <p><em>From Broken Part (Input) -> To Printable STL (Output) in < 60 seconds.</em></p>
 </div>
 
