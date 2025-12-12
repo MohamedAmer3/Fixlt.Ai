@@ -1,0 +1,5 @@
+{
+  "name": "FixIt.AI",
+  "description": "A Vibe Coding web app that scans broken parts, analyzes them using Gemini 3 Pro, and generates repair schematics (OpenSCAD) and 3D visualizations (Three.js/STL).",
+  "requestFramePermissions": []
+}
