@@ -50,12 +50,6 @@ The entire UI and logic were generated using Gemini 3 Pro's "Vibe Coding" capabi
 * **Logic:** Javascript (Client-Side)
 
 ## 📸 Demo
-*(Add a link to your YouTube video here or a GIF of the scanning process)*
-
-## 🧠 The "Magic" Prompt
-The core of this application runs on a specialized system prompt designed to force Gemini into "Engineering Mode":
-
-> "You are an expert Additive Manufacturing Engineer. ANALYZE the broken feature. MEASURE logical metric dimensions. STRATEGY: Do not just trace the broken shards; DESIGN A REPLACEMENT. Create Parametric OpenSCAD code and ensure the part is MANIFOLD and has a flat surface for bed adhesion."
 
 ## 📦 How to Run
 Since this is a client-side "Vibe App," you can run it directly:
